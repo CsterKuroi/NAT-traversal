@@ -1,2 +1,2 @@
 # NAT-traversal
- udp hold-punching
+ udp hole-punching
